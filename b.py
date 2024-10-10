@@ -1,0 +1,2 @@
+a='vishal'
+print(a)
